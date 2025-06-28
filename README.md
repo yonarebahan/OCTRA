@@ -3,7 +3,8 @@
 
 use codespace for CLI : https://github.com/codespaces
 
-🟢 Fill out the Form : https://t.co/UPeQGW2n63
+🟢 Fill out the Form : https://t.co/UPeQGW2n63 
+
 🟢 Setup and Run Wallet Generator
 download
 ```
@@ -28,8 +29,12 @@ start script
 bun start
 ```
 🟢 Wait for the Popup Window & Open
+
 🟢 Save Phrase, Wallet Address, Private & Public Key
+
 🟢 Request Octra Faucet  (https://faucet.octra.network/)
+
 🟢 Join Discord discord.gg/octra
+
 🟢 Done
 
