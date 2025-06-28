@@ -34,7 +34,7 @@ bun start
 
 🟢 Request Octra Faucet  (https://faucet.octra.network/)
 
-🟢 Join Discord discord.gg/octra
+🟢 Join Discord https://discord.gg/octra
 
 🟢 Done
 
